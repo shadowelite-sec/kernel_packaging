@@ -17,3 +17,4 @@ cp -f "$KERNELBIN" AnyKernel3/Image
 cd AnyKernel3
 zip -r9 kernel.zip META-INF anykernel.sh Image tools version
 mv -f kernel.zip ../"$ZIPNAME"
+cd ..
