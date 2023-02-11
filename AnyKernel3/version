@@ -5,19 +5,22 @@
 | |_| | | | (_| \__ \__ \ . \  __/ |  | | | |  __/ |
  \____|_|  \__,_|___/___/_|\_\___|_|  |_| |_|\___|_|
 *****************************************************
- Source    : Based on A515F_EUR_S source code 
- Chipset   : Exynos 9611 with Mali G72 MP3     
- Android   : For OneUI5 Only
- Developer : Royna (@roynatech on TG)
- Support   : Not yet open
+ Chipset   : Snapdragon662 (Bengal)     
+ Device    : (Juice/Chime/Citrus/Lime)
+ Android   : For all Custom Roms based on A11-13
+ Developer : Ash (@hac4us on TG)
+ Support   : @ashhcafe on TG
 *****************************************************
-          MAYBE PERFORMANCE AND STABLE KERNEL         
+           PERFORMANCE AND STABLE KERNEL         
 *****************************************************
 TBD
 *****************************************************
                   MAIN FEATURES                 
 *****************************************************
- Removed Security Stuffs, debugging codes, etc..
  Balance between performance and battery life   
- Compiled kernel with Neutron Clang 16.0.0
+ Compiled kernel with Neutron Clang 17.0.0
+*****************************************************
+                         NOTE
+For NT36672a users need to flash your old/backup dtbo 
+for your device to boot
 *****************************************************
