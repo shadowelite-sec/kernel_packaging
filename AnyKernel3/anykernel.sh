@@ -22,7 +22,7 @@ supported.patchlevels=
 # shell variables
 if [ -e /dev/block/platform/13520000.ufs/by-name/BOOT ]; then
 	block=/dev/block/platform/13520000.ufs/by-name/BOOT;
-
+fi
 block=/dev/block/bootdevice/by-name/boot
 is_slot_device=0;
 ramdisk_compression=auto;
