@@ -20,7 +20,3 @@ TBD
  Balance between performance and battery life   
  Compiled kernel with Neutron Clang 17.0.0
 *****************************************************
-                         NOTE
-For NT36672a users need to flash your old/backup dtbo 
-for your device to boot
-*****************************************************
